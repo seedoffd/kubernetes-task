@@ -1,5 +1,6 @@
 # kubernetes-task
-Kubernetes-tasks
+
+
 A) Run uname command in a single busybox container. The command should run every minute and must complete within 10 seconds or be terminated by Kubernetes. The CronJob name and container name should both be "hello".
 
 B) You have a broken Pod, what steps will you follow to troubleshoot?
